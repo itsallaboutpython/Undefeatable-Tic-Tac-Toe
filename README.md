@@ -16,7 +16,7 @@ To run this script, type
 python main.py
 ```
 To know how the script works, check out my blog:
-[Click here](https://itsallaboutpython.blogspot.com)
+[Click here](https://itsallaboutpython.blogspot.com/2021/05/create-undefeatable-tic-tac-toe-in.html)
 
 To get more info, check out my
 Youtube: [Click here](https://www.youtube.com/channel/UCggZvARaczWC4wc4E6f330w)
