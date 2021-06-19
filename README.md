@@ -1,5 +1,6 @@
 # Undefeatable Tic tac Toe
 ## Play against a program, that has never seem defeat, and will never be
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Zd_aNbtSJdI/0.jpg)](https://www.youtube.com/watch?v=Zd_aNbtSJdI)
 ### Installation
 Open terminal and type the following
 ```
